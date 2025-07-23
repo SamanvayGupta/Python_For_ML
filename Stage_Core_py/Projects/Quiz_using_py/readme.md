@@ -15,8 +15,8 @@ features
 
 Signup()
 
-def signup():
-    name=input("Enter Your Name: ")
+def signup():<br>
+<tab>name=input("Enter Your Name: ")
     user_name=input("Enter Your Username: ")
     while True:
         passcode=input("Enter a 4 digit passcode: ")
